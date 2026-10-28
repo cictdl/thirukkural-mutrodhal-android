@@ -1,0 +1,19 @@
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+
+# Signing keys and their passwords: back these up privately, never commit them.
+keystore.properties
+keystore/
+*.jks
+*.keystore
+
+# Signed release outputs (built by build-release.ps1)
+release/
+*.apk
+*.aab

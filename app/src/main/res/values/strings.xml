@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">திருக்குறள் முற்றோதல்</string>
+    <string name="app_name_english">Recitation of Entire Tirukkural</string>
+    <string name="publisher">செம்மொழித் தமிழாய்வு மத்திய நிறுவனம் (CICT)</string>
+
+    <string name="stat_kurals">1330 குறள்</string>
+    <string name="stat_chapters">133 அதிகாரம்</string>
+    <string name="stat_hours">%1$d மணி %2$d நிமி</string>
+
+    <string name="continue_listening">தொடர்ந்து கேளுங்கள்</string>
+    <string name="start_recitation">முற்றோதலைத் தொடங்குங்கள்</string>
+    <string name="start_recitation_hint">1330 குறட்பாக்களையும் தொடர்ச்சியாகக் கேட்கலாம்</string>
+    <string name="chapter_number">அதிகாரம் %1$d</string>
+    <string name="chapter_of_total">அதிகாரம் %1$d / 133</string>
+    <string name="kural_range">குறள் %1$s</string>
+    <plurals name="chapters_count">
+        <item quantity="one">%1$d அதிகாரம்</item>
+        <item quantity="other">%1$d அதிகாரங்கள்</item>
+    </plurals>
+
+    <string name="search_hint">அதிகாரம், குறள் எண் அல்லது பெயர் தேடுக</string>
+    <string name="filter_all">அனைத்தும்</string>
+    <string name="no_results">பொருத்தமான அதிகாரம் இல்லை</string>
+
+    <string name="now_playing">இப்போது ஓதப்படுவது</string>
+    <string name="play">இயக்கு</string>
+    <string name="pause">நிறுத்து</string>
+    <string name="next">அடுத்தது</string>
+    <string name="previous">முந்தையது</string>
+    <string name="rewind_10">10 நொடி பின்</string>
+    <string name="forward_10">10 நொடி முன்</string>
+    <string name="shuffle">கலந்து இயக்கு</string>
+    <string name="repeat">மீண்டும் இயக்கு</string>
+    <string name="collapse">சுருக்கு</string>
+    <string name="queue">அதிகாரப் பட்டியல்</string>
+    <string name="speed">வேகம்</string>
+
+    <string name="sleep_timer">உறக்க நேரம்</string>
+    <string name="sleep_off">அணை</string>
+    <string name="sleep_minutes">%1$d நிமிடங்கள்</string>
+    <string name="sleep_end_of_chapter">இந்த அதிகாரம் முடிந்ததும்</string>
+    <string name="sleep_end_short">அதிகார முடிவில்</string>
+
+    <string name="download">பதிவிறக்கு</string>
+    <string name="downloaded">பதிவிறக்கப்பட்டது</string>
+    <string name="cancel_download">பதிவிறக்கத்தை நிறுத்து</string>
+    <string name="remove_download">பதிவிறக்கத்தை நீக்கு</string>
+    <string name="download_all">அனைத்தையும் பதிவிறக்கு</string>
+    <string name="download_all_message">133 அதிகாரங்களும் (ஏறத்தாழ %1$d MB) இணையமின்றிக் கேட்கச் சேமிக்கப்படும். Wi-Fi இணைப்பில் செய்வது நல்லது.</string>
+    <string name="remove_all_downloads">பதிவிறக்கங்களை நீக்கு</string>
+    <string name="remove_all_message">சேமிக்கப்பட்ட அனைத்து ஒலிக்கோப்புகளும் (%1$s) நீக்கப்படும்.</string>
+    <string name="offline_summary">இணையமின்றி: %1$d / 133 • %2$s</string>
+    <string name="download_failed">அதிகாரம் %1$d பதிவிறக்கம் தோல்வியடைந்தது</string>
+    <string name="confirm">சரி</string>
+    <string name="cancel">ரத்து</string>
+    <string name="more">மேலும்</string>
+
+    <string name="error_network">ஒலியை இயக்க முடியவில்லை. இணைய இணைப்பைச் சரிபார்க்கவும்.</string>
+    <string name="retry">மீண்டும் முயல்க</string>
+
+    <string name="about">பற்றி</string>
+    <string name="about_body">திருவள்ளுவரின் 1330 குறட்பாக்களும் மு. வரதராசனாரின் எளிய உரையுடன் ஒலி வடிவில். ஒரு நூலை முழுமையாக ஓதுதல் முற்றோதல் எனப்படும். மாணவர்கள் திருக்குறளை மனப்பாடம் செய்து ஓதுவதற்கு இச்செயலி துணைபுரியும்.</string>
+    <string name="version">பதிப்பு %1$s</string>
+    <string name="close">மூடு</string>
+    <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+</resources>

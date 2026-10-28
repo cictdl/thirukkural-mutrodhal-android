@@ -1,0 +1,3 @@
+# Media3, Compose and AndroidX ship their own consumer rules; nothing app-specific is reflected.
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile

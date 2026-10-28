@@ -1,0 +1,101 @@
+திருக்குறள் முற்றோதல் — பதிப்பு 2.0.0 (versionCode 100)
+===========================================================
+
+1) GOOGLE PLAY "What's new"  (Play Console → release → Release notes; max 500 characters per language)
+Paste everything between the lines below, including the language tags.
+-----------------------------------------------------------------------
+<ta-IN>
+புதிய வடிவில் திருக்குறள் முற்றோதல்!
+• நவீன ஒலி இயக்கி – 133 அதிகாரங்களும் தொடர்ச்சியாக
+• திரை அணைந்தாலும், பூட்டுத் திரையிலும் இயங்கும்
+• நிறுத்திய இடத்திலிருந்து தொடரும்
+• வேகக் கட்டுப்பாடு (0.5× – 2×), உறக்க நேரம்
+• இணையமின்றிக் கேட்கப் பதிவிறக்கம்
+• அதிகாரப் பெயர், குறள் எண் கொண்டு தேடல்
+• முப்பால் வாரியாகப் பார்வை
+• ஒளி / இருள் தோற்றம், டேப்லெட் வடிவமைப்பு
+</ta-IN>
+<en-IN>
+All-new Thirukkural Mutrodhal!
+• Modern audio player – all 133 chapters play continuously
+• Keeps playing with the screen off and from the lock screen
+• Resumes where you left off
+• Playback speed (0.5×–2×) and sleep timer
+• Download chapters for offline listening
+• Search by chapter name or kural number
+• Browse by Aram, Porul and Kamam
+• Light and dark themes, tablet layout
+</en-IN>
+<en-US>
+All-new Thirukkural Mutrodhal!
+• Modern audio player – all 133 chapters play continuously
+• Keeps playing with the screen off and from the lock screen
+• Resumes where you left off
+• Playback speed (0.5×–2×) and sleep timer
+• Download chapters for offline listening
+• Search by chapter name or kural number
+• Browse by Aram, Porul and Kamam
+• Light and dark themes, tablet layout
+</en-US>
+-----------------------------------------------------------------------
+
+
+2) FULL CHANGELOG  (for the website, newsletter or social media)
+-----------------------------------------------------------------------
+திருக்குறள் முற்றோதல் 2.0 — முழுமையாகப் புதுப்பிக்கப்பட்டது
+
+ஓதுதல்
+• திருவள்ளுவரின் 1330 குறட்பாக்களும், மு. வரதராசனாரின் எளிய உரையுடன், 133 அதிகாரங்களாக ஒலி வடிவில்.
+• "முற்றோதல்" – முதல் அதிகாரம் முதல் இறுதி வரை தொடர்ச்சியாக இயங்கும்.
+• நிறுத்திய அதிகாரம், நிறுத்திய நொடியிலிருந்து மீண்டும் தொடங்கும்.
+
+நவீன ஒலி இயக்கி
+• திருவள்ளுவர் ஓவியத்துடன் முழுத்திரை இயக்கி; ஒவ்வொரு பாலுக்கும் தனி வண்ணம்.
+• அலைவடிவ நகர்த்தி, 10 நொடி முன்/பின், முந்தைய/அடுத்த அதிகாரம், கலந்து இயக்கு, மீண்டும் இயக்கு.
+• வேகக் கட்டுப்பாடு 0.5× முதல் 2× வரை.
+• உறக்க நேரம்: 15, 30, 45, 60, 90 நிமிடங்கள் அல்லது "இந்த அதிகாரம் முடிந்ததும்".
+• அறிவிப்புப் பகுதி, பூட்டுத் திரை, ஹெட்ஃபோன், ப்ளூடூத் வழியாகக் கட்டுப்படுத்தலாம்.
+
+இணையமின்றி
+• கேட்ட அதிகாரங்கள் தானாகச் சேமிக்கப்படும்.
+• தனித்தனி அதிகாரங்களையோ, 133 அதிகாரங்களையும் (ஏறத்தாழ 536 MB) ஒரே முறையிலோ பதிவிறக்கலாம்.
+
+தேடலும் வகைப்பாடும்
+• அதிகாரப் பெயர் (தமிழ் / ஆங்கில ஒலிபெயர்ப்பு), அதிகார எண், குறள் எண் (எ.கா. 391 → கல்வி) கொண்டு தேடலாம்.
+• அறத்துப்பால் / பொருட்பால் / காமத்துப்பால் வாரியாக; இயல் வாரியாகப் பிரிக்கப்பட்ட பட்டியல்.
+
+தோற்றம்
+• ஒளி / இருள் தோற்றம்; டேப்லெட், கிடைமட்டத் திரைகளில் பட்டியலும் இயக்கியும் அருகருகே.
+• Android 17 (API 37) வரை முழு ஆதரவு.
+
+தனியுரிமை: எந்தத் தனிப்பட்ட தகவலும் சேகரிக்கப்படுவதில்லை; விளம்பரங்கள் இல்லை.
+
+
+Thirukkural Mutrodhal 2.0 — completely rebuilt
+
+Recitation
+• All 1330 kurals of Thiruvalluvar, with the simple commentary of Mu. Varadarasanar, as audio across 133 chapters.
+• "Mutrodhal" mode plays every chapter in order, from the first to the last.
+• Picks up from the exact chapter and second where you stopped.
+
+Modern player
+• Full-screen player with the Thiruvalluvar artwork and a colour theme for each Paal.
+• Waveform seek bar, 10-second skip, previous/next chapter, shuffle and repeat.
+• Playback speed from 0.5× to 2×.
+• Sleep timer: 15, 30, 45, 60 or 90 minutes, or "at the end of this chapter".
+• Control playback from the notification, lock screen, headphones and Bluetooth.
+
+Offline
+• Chapters you have listened to are saved automatically.
+• Download single chapters, or all 133 at once (about 536 MB).
+
+Search and browse
+• Search by chapter name (Tamil or transliteration), chapter number or kural number (e.g. 391 → Kalvi).
+• Browse by Aram, Porul and Kamam, grouped by Iyal.
+
+Design
+• Light and dark themes; on tablets and in landscape the chapter list and player sit side by side.
+• Built for Android 17 (API level 37).
+
+Privacy: no personal data is collected, and there are no ads.
+-----------------------------------------------------------------------
